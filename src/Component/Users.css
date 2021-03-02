@@ -1,0 +1,16 @@
+.users{
+    width: 80%;
+    margin: auto;
+    align-items: center;
+}
+.searchbar{
+    width: 90%;
+    margin: auto;
+    padding: 5px 5px;
+}
+.btn{
+    margin:auto;
+}
+table,th,td{
+    border: 1px solid black;
+}
